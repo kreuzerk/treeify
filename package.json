@@ -1,0 +1,25 @@
+{
+  "name": "treeify",
+  "version": "1.0.0",
+  "description": "Convert nx reverse dep graph into a tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kreuzerk/treeify.git"
+  },
+  "keywords": [
+    "Nx",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "Kevin Kreuzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kreuzerk/treeify/issues"
+  },
+  "homepage": "https://github.com/kreuzerk/treeify#readme"
+}
